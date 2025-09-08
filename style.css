@@ -320,7 +320,7 @@ nav ul li a:hover {
     background-image: url('sfondohero.jpg');
     background-size: cover;
     background-position: center;
-    filter: blur(3px);
+    filter: blur(5px);
     z-index: -1;
 }
 
